@@ -1,0 +1,18 @@
+# depslib dependency file v1.0
+1576914953 source:c:\users\lenovo\desktop\new folder\programming\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<stdlib.h>
+	<ctype.h>
+	<time.h>
+	"myfunctions.h"
+
+1576919631 c:\users\lenovo\desktop\new folder\programming\myfunctions.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<stdlib.h>
+	<ctype.h>
+	<time.h>
+
